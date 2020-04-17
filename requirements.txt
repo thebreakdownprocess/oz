@@ -6,3 +6,4 @@ plotly.graph_objects==4.6.0
 ipywidgets==7.5.1
 json==2.0.9
 plotly.io==4.6.0
+watermark==2.0.2
